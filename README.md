@@ -1,4 +1,4 @@
-<h2 align="left">Salut👋 ! Je m'appelle Pedro, je suis Développeur Fullstack</h2>
+<h2 align="left">Salut👋 ! Je m'appelle Pedro, je suis un Développeur Fullstack</h2>
 
 ###
 
